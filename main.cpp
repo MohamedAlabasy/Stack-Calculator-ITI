@@ -143,8 +143,8 @@ int operate(int _fNumber, int _sNumber, char _operator)
 // Evaluate a string
 int evaluate(char* _operation)
 {
-    Stack<int> numbers;    //object for numbers int the operation
-    Stack<char> operators; //object for operators int the operation
+    Stack<int> numbers;    //object for numbers in the operation
+    Stack<char> operators; //object for operators in the operation
 
     int numberValue = 0; //refer to number values in the operation
     int position = 0;    //refer to position in the operation
