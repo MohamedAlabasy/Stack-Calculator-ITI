@@ -1,6 +1,6 @@
-# Stack-Calculator-ITI
-Stack calculator task with C++ (Data Structures Project).  
-This stack is a calculator program that uses the stack.  
+# Stack-Calculator-ITI with C++
+
+This is a data structures project calculator program that uses the stack.  
 
 There are two stacks :  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1.The first one to add numbers into integer stack.     
