@@ -1,5 +1,5 @@
 # Stack-Calculator-ITI
-Stack calculator task with C++ 
+Stack calculator task with C++ (Data Structures Project).  
 This stack is a calculator program that uses the stack.  
 
 There are two stacks :  
